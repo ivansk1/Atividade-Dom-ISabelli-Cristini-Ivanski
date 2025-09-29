@@ -19,3 +19,29 @@ form {
     margin-bottom: 12px;
 }
 
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 12px;
+    border-radius: 6px;
+    border: 0;
+    background:#0b74da;
+    color: #fff;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 8px 10px;
+    border-bottom: 1px solid #eee;
+}
